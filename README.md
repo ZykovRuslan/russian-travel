@@ -10,6 +10,10 @@
 
 * [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
+**GitHub Pages**
+
+* [Ссылка на макет в Figma](https://zykovruslan.github.io/zykovruslan.github.io-russian-travel)
+
 ---
 Для связи
 <div id="badges">
@@ -17,5 +21,3 @@
   <img src="https://img.shields.io/badge/VK-вконтакте-blue?logo=vkontakte&logoColor=white&style=for-the-badge" alt="vkontakte"/>
   </a>
 </div>
-
-ссылку на GitHub Pages.
