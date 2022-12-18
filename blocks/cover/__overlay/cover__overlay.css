@@ -1,0 +1,7 @@
+.cover__overlay{
+    height: 100%;
+    width: 100%;
+    background-color: #2A2C2F;
+    opacity: .3;
+    position: absolute;
+}

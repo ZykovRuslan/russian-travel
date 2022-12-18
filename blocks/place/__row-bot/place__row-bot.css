@@ -1,0 +1,30 @@
+.place__row-bot{
+    display: flex;
+    gap: 40px;
+    margin-top: 48px;
+}
+
+@media screen and (max-width: 1024px) {
+    .place__row-bot{
+        gap: 32px;       
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .place__row-bot{
+        gap: 28px; 
+    }
+}
+
+@media screen and (max-width: 580px) {
+    .place__row-bot{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .place__row-bot{
+        gap: 32px; 
+    }
+}

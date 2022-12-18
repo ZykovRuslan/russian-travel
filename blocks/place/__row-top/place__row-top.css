@@ -1,0 +1,23 @@
+.place__row-top{
+    display: flex;
+    gap: 40px;
+}
+
+@media screen and (max-width: 1024px) {
+    .place__row-top{
+        gap: 32px;       
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .place__row-top{
+        gap: 28px; 
+    }
+}
+
+@media screen and (max-width: 580px) {
+    .place__row-top{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
