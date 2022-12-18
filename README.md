@@ -12,7 +12,7 @@
 
 **GitHub Pages**
 
-* [Ссылка на макет в Figma](https://zykovruslan.github.io/zykovruslan.github.io-russian-travel)
+* [Ссылка на cайт](https://zykovruslan.github.io/zykovruslan.github.io-russian-travel)
 
 ---
 Для связи
