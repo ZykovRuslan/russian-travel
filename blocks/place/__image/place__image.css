@@ -1,5 +1,6 @@
 .place__image{
     max-width: 460px;
+    height: max-content;
 }
 
 @media screen and (max-width: 1024px) {

@@ -7,22 +7,3 @@
     letter-spacing: 2px;
     color: #AAAAAA; 
 }
-
-@media screen and (max-width: 1024px) {
-    .place__column-right{
-        max-width: 456px;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .place__column-right{
-        max-width: 352px;
-        padding-top: 46px;
-    }
-}
-
-@media screen and (max-width: 580px) {
-    .place__column-right{
-        max-width: 288px;
-    }
-}

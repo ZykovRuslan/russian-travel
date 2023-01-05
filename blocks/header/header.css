@@ -12,7 +12,6 @@
     .header{
         max-width: 928px;
         padding: 0 4.687%;
-        padding-top: 28px;
     }
 }
 
@@ -20,7 +19,6 @@
     .header{
         max-width: 720px;
         padding: 0 3.125%;
-        padding-top: 28px;
     }
 }
 
@@ -29,7 +27,6 @@
         max-width: 288px;
         padding-top: 16px;
         padding: 0 5%;
-        padding-top: 16px;
     }
 }
 

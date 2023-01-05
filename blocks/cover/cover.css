@@ -3,18 +3,12 @@
     text-align: center;
     margin: 0 auto;
     margin-top: 90px;
-    display: flex;
-    flex-direction: column;
     position: relative;
     align-items: center;
 }
 
-.cover:hover .cover__overlay{
-    opacity: .8;
-}
-
 @media screen and (max-width: 320px) {
     .cover{
-        margin-top: 90px;
+        margin-top: 66px;
     }
 }

@@ -5,3 +5,7 @@
     opacity: .3;
     position: absolute;
 }
+
+.cover:hover .cover__overlay{
+    opacity: .8;
+}
